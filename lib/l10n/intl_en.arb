@@ -1,0 +1,25 @@
+{
+  "statistics" : "Statistics",
+  "quotas" : "Quotas",
+  "satisfactionWithMobileCommunication" : "Satisfaction with mobile communication",
+  "meaning" : "Meaning",
+  "left" : "Left",
+  "fullInterview" : "Full interview",
+  "men" :  "Men",
+  "women" : "Women",
+  "polls" : "Polls",
+  "poll" : "Poll",
+  "login" : "Login: ",
+  "options" : "Options",
+  "pollOptions" : "Poll Options",
+  "geolocation" : "Geolocation",
+  "audioRecording" : "Audio recording",
+  "syncOptions" : "Sync Options",
+  "totalQuestionnaires" : "Total Questionnaires",
+  "synchronized" : "Synchronized",
+  "toBeSynchronized" : "To be synchronized",
+  "synchronize" : "Synchronize",
+  "forgotYourPassword"  : "Forgot your password?",
+  "password" : "Password"
+
+}

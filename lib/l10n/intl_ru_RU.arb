@@ -1,0 +1,25 @@
+{
+  "statistics" : "Статистика",
+  "quotas" : "Квоты",
+  "satisfactionWithMobileCommunication" : "Удовлетворенность мобильной связью",
+  "meaning" : "Значение",
+  "left" : "Осталось",
+  "fullInterview" : "Полное интервью",
+  "men" :  "Мужчины",
+  "women" : "Женщины",
+  "polls" : "Опросы",
+  "poll" : "Опрос"
+  "login" : "Логин: ",
+  "options" : "Параметры",
+  "pollOptions" : "Параметры опроса",
+  "geolocation" : "Геолокация",
+  "audioRecording" : "Аудиозапись",
+  "syncOptions" : "Параметры синхронизации",
+  "totalQuestionnaires" : "Всего анкет",
+  "synchronized" : "Синхронизировано",
+  "toBeSynchronized" : "Подлежит синхронизации",
+  "synchronize" : "Синхронизировать",
+  "forgotYourPassword"  : "Забыли пароль?",
+  "password" : "Пароль"
+
+}
